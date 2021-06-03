@@ -1,5 +1,5 @@
 # projet_dev_log_b2
-Depot git du projet ynov developpement logiciel du groupe 19 : DUPUY Guillaume / CHESNEAU Paul / PANNETART Mathieu Projet numéro 1 : SERVEUR DE MATCHMAKING
+Depot git du projet ynov developpement logiciel du groupe 16 : DUPUY Guillaume / CHESNEAU Paul / PANNETART Mathieu Projet numéro 1 : SERVEUR DE MATCHMAKING
 
 # Les étapes pour lancer le projet :
 
